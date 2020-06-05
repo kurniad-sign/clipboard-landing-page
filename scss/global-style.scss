@@ -1,0 +1,41 @@
+/* Typography */
+$font-family: "Bai Jamjuree", sans-serif;
+$font-normal: 400;
+$font-semibold: 600;
+$font-size: 18px;
+
+/* Colors */
+$cyan-primary: hsl(171, 66%, 44%);
+$light-blue-primary: hsl(233, 100%, 69%);
+$dark-grayish-blue: hsl(210, 10%, 33%);
+$grayish-blue: hsl(201, 11%, 66%);
+
+/* Screen size */ 
+$mobile-view: 375px;
+$desktop-view: 1440px;
+
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: $font-family;
+  font-size: $font-size;
+  font-weight: $font-normal;
+  line-height: 1.4;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color: #f5f5f5;
+  color: $dark-grayish-blue
+}

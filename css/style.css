@@ -1,0 +1,26 @@
+/* Typography */
+/* Colors */
+/* Screen size */
+*, *:after, *:before {
+  box-sizing: border-box; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.4;
+  text-rendering: optimizeLegibility; }
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color: #f5f5f5;
+  color: #4c545d; }
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxlQUFlO0FBQ2YsV0FBVztBQUNYLGdCQUFnQjtBQUNoQjtFQUNFLHNCQUFzQixFQUFFOztBQUUxQjtFQUNFLFNBQVM7RUFDVCxVQUFVLEVBQUU7O0FBRWQ7RUFDRSx1Q0FBdUM7RUFDdkMsZUFBZTtFQUNmLGdCQUFnQjtFQUNoQixnQkFBZ0I7RUFDaEIsa0NBQWtDLEVBQUU7O0FBRXRDO0VBQ0UsYUFBYTtFQUNiLHNCQUFzQjtFQUN0QixpQkFBaUI7RUFDakIsa0JBQWtCO0VBQ2xCLHlCQUF5QjtFQUN6QixjQUFjLEVBQUUiLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLyogVHlwb2dyYXBoeSAqL1xuLyogQ29sb3JzICovXG4vKiBTY3JlZW4gc2l6ZSAqL1xuKiwgKjphZnRlciwgKjpiZWZvcmUge1xuICBib3gtc2l6aW5nOiBib3JkZXItYm94OyB9XG5cbioge1xuICBtYXJnaW46IDA7XG4gIHBhZGRpbmc6IDA7IH1cblxuaHRtbCB7XG4gIGZvbnQtZmFtaWx5OiBcIkJhaSBKYW1qdXJlZVwiLCBzYW5zLXNlcmlmO1xuICBmb250LXNpemU6IDE4cHg7XG4gIGZvbnQtd2VpZ2h0OiA0MDA7XG4gIGxpbmUtaGVpZ2h0OiAxLjQ7XG4gIHRleHQtcmVuZGVyaW5nOiBvcHRpbWl6ZUxlZ2liaWxpdHk7IH1cblxuYm9keSB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIG1pbi1oZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdy14OiBoaWRkZW47XG4gIGJhY2tncm91bmQtY29sb3I6ICNmNWY1ZjU7XG4gIGNvbG9yOiAjNGM1NDVkOyB9XG4iXX0= */
